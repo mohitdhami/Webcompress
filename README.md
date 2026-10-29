@@ -6,4 +6,4 @@ Open **`index.html`** directly in a modern browser. No server, install step, or 
 
 - Source code and development instructions live on the **`wasm`** branch.
 - Do not edit this branch by hand. Run `npm run build` on `wasm` and copy the resulting `dist/index.html` here.
-- Built from `wasm` commit: see the commit message for this branch.
+- Built from `wasm` commit `250f42d`.
